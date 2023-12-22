@@ -132,6 +132,7 @@ margin-bottom: 130px;
 /*what i do css*/
 
 .what-i-do{
+    margin-bottom: 130px;
 
 }
 .wid-des{
@@ -171,3 +172,51 @@ font-size: 16px;
 line-height: 28px; 
 }
 
+/*resume css*/
+
+.resume{
+    margin-top: 100px;
+display: flex;
+justify-content: space-between;
+}
+
+.resume-left{
+
+}
+.resume-sub-title{
+    color: #474747;
+    font-size: 30px;
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+.resume-sub-title{
+
+}
+
+.singel-edu-sec{
+margin-bottom: 60px;
+width: 510px;
+
+border-bottom: 1px solid #D1D1D1;;
+}
+
+.singel-edu-sec h4{
+    color: #474747;
+font-size: 25px;
+font-weight: 700;
+margin-bottom: 10px;
+}
+
+.singel-edu-sec h5{
+    color:  #757575;
+font-size: 20px;
+font-weight: 600;
+margin-bottom: 20px;
+}
+
+.singel-edu-sec p{
+    color: #757575;
+    line-height: 28px; 
+    font-size: 16px;
+    margin-bottom: 30px;
+}
