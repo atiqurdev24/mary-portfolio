@@ -85,6 +85,7 @@ main{
     border-radius: 10px;
 background: #FFF8F3;
 padding: 130px 150px;
+text-align: center;
 }
 
 .sec-title{
@@ -103,3 +104,24 @@ padding: 130px 150px;
     line-height: 30px; /* 166.667% */
 
 }
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.about-info{
+}
+
+.info-title{
+    color:  #757575;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.info-des{
+    color: #474747;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
