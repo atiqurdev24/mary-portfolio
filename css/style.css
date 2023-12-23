@@ -175,23 +175,22 @@ line-height: 28px;
 /*resume css*/
 
 .resume{
+    margin-bottom: 100px;
+}
+
+.resume-content{
     margin-top: 100px;
 display: flex;
 justify-content: space-between;
 }
 
-.resume-left{
-
-}
 .resume-sub-title{
     color: #474747;
     font-size: 30px;
     margin-bottom: 30px;
     font-weight: 700;
 }
-.resume-sub-title{
 
-}
 
 .singel-edu-sec{
 margin-bottom: 60px;
@@ -219,4 +218,45 @@ margin-bottom: 20px;
     line-height: 28px; 
     font-size: 16px;
     margin-bottom: 30px;
+}
+.resmue-btn{
+    text-align: center;
+    margin-top: 50px;
+}
+
+/*contact section css*/
+
+.contact-sec{
+    display: flex;
+    background: #FFF8F3;
+    gap: 100px;    
+}
+
+.contact-left{
+}
+
+.contact-left h4{
+text-align: left;
+font-size: 35px;
+font-weight: 700;
+margin-bottom: 20px;
+}
+
+
+.contact-left p{
+    color:  #474747;
+line-height: 28px; 
+size: 16px;
+margin-bottom: 30px;
+}
+
+.contact-left a{
+    margin-right: 24px;
+}
+
+.contact-side h4{
+    text-align: left;
+font-size: 35px;
+font-weight: 700;
+margin-bottom: 20px;
 }
